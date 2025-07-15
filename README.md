@@ -1011,15 +1011,7 @@
     <!-- قسم GitHub -->
     <section class="github-section" id="github">
         <div class="container">
-            <h2>مستودع GitHub</h2>
-            <p>تم نشر هذه الصفحة على GitHub Pages لضمان توفرها دائمًا للجميع</p>
-            
-            <a href="https://github.com/your-username/Task-Post" class="github-link" target="_blank">
-                <i class="fab fa-github"></i> عرض المستودع على GitHub
-            </a>
-            
-            <div class="github-info">
-                <p>رابط الصفحة الحية: <a href="https://your-username.github.io/Task-Post/" style="color: var(--burgundy); font-weight: bold;">https://your-username.github.io/Task-Post/</a></p>
+           
             </div>
         </div>
     </section>
@@ -1084,7 +1076,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2023 Task Post. جميع الحقوق محفوظة.</p>
+                <p>&copy; 2025 Task Post. جميع الحقوق محفوظة.</p>
             </div>
         </div>
     </footer>
