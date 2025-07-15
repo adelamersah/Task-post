@@ -934,8 +934,8 @@
                     </div>
                     <div class="feature-card">
                         <i class="fas fa-map-marked-alt"></i>
-                        <h3>التتبع المباشر</h3>
-                        <p>تابع شحنتك  نظام التتبع المباشر</p>
+                        <h3> تتبع</h3>
+                        <p>تابع شحنتك  نظام التتبع </p>
                     </div>
                 </div>
             </div>
