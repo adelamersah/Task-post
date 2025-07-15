@@ -983,7 +983,7 @@
             <p>فريق دعمنا جاهز للإجابة على استفساراتك وتلبية احتياجاتك في أي وقت</p>
             
             <a href="tel:+972504670703" class="contact-number">
-                <i class="fas fa-phone"></i> اتصل بنا الآن: +972 50-467-0703
+                <i class="fas fa-phone"></i>+972 50-467-0703+972 50-467-0703
             </a>
             
             <div class="contact-info">
