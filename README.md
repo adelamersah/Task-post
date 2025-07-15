@@ -1,13 +1,6 @@
 # Task-post
-A
-# صفحة ترويجية لخدمة Task Post مع نشرها على GitHub
 
-لقد أنشأت صفحة ترويجية متكاملة لخدمة Task Post، وقمت بنشرها على GitHub لتكون متاحة عبر الإنترنت. يمكنك الوصول إلى الصفحة مباشرة من خلال الرابط التالي:
-
-[Task Post على GitHub Pages](https://your-username.github.io/Task-Post/)
-
-## الكود الكامل للصفحة مع تكامل GitHub
-
+# 
 ```html
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
